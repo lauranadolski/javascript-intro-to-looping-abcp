@@ -6,9 +6,9 @@ function forLoop (array) {
     }
     else {
       array.shift("I am 1 strange loop.");
-  
-      return array;
-    }}}
+    }}
+  return array;
+}
     
     
 /////    var array = ['apples', 'bananas', 'grapes'];    

@@ -11,7 +11,9 @@ function forLoop (array) {
 }
     
     
-function whileLoop (number)    
+function whileLoop (number){
+  
+}    
     
     
     

@@ -9,3 +9,6 @@ function forLoop (array) {
   
       return array;
     }}}
+    
+    
+    var array = ['apples', 'bananas', 'grapes'];

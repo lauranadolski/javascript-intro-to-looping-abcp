@@ -15,15 +15,13 @@ function whileLoop (number){
   var number2 = number + 1;
   while (number2 > 0) {
     console.log (--number2);
-    if (number2 < 1){
-      console.log (`done`);
-  }}
-  
-}    
+  }
+    console.log (`done`);
+  }
     
     
     
-    
+    ///     if (number2 < 1){
     
     
 /////    var array = ['apples', 'bananas', 'grapes'];    

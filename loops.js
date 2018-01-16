@@ -31,5 +31,3 @@ do {
 
 return array;
 }
-    
-/////    var array = ['apples', 'bananas', 'grapes'];    

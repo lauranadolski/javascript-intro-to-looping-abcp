@@ -1,5 +1,3 @@
-var array = ['Cats', 'Dogs', 'Birds'];
-
 function forLoop (array) {
   
   for (let i = 0; i < 25; i++){

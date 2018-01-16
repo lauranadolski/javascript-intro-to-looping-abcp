@@ -1,4 +1,4 @@
-var array = ['Cats', 'Dogs', 'Birds']
+var array = ['Cats', 'Dogs', 'Birds'];
 
 function forLoop (array) {
   

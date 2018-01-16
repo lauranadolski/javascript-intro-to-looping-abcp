@@ -5,7 +5,7 @@ function forLoop (array) {
       array.shift("I am ${i} strange loops.");
     }
     else {
-      array.shift("I am 1 strange loop.")
+      array.shift("I am 1 strange loop.");
   }
   
 }

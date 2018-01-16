@@ -24,6 +24,9 @@ function doWhileLoop(array){
   return Math.random() >= 0.5;
 }
 
+
+while (maybeTrue())
+
 }
     
 /////    var array = ['apples', 'bananas', 'grapes'];    

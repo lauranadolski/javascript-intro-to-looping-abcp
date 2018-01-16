@@ -6,6 +6,4 @@ function forLoop (array) {
     }
     else {
       array.shift("I am 1 strange loop.");
-  }
-  
-}
+  }}}

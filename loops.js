@@ -11,4 +11,4 @@ function forLoop (array) {
     }}}
     
     
-    var array = ['apples', 'bananas', 'grapes'];
+/////    var array = ['apples', 'bananas', 'grapes'];    

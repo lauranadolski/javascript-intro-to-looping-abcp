@@ -15,9 +15,7 @@ function whileLoop (number){
   
   while (number > -1) {
     console.log (--number);
-  else
-  {console.log ('done');
-  }}
+  }
   
 }    
     

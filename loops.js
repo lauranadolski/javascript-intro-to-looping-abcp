@@ -28,6 +28,7 @@ do {
   [array.shift];
 } while (maybeTrue());
 
+return array;
 }
     
 /////    var array = ['apples', 'bananas', 'grapes'];    

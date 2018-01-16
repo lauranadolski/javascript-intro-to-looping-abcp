@@ -15,9 +15,9 @@ function whileLoop (number){
   
   let countdown = number;
   
-  while (countdown > 0) {
+  while (countdown > -1) {
     console.log (--countdown);
-  if (countdown < 1) {console.log ('done');
+  if (countdown < -1) {console.log ('done');
   }}
   
 }    

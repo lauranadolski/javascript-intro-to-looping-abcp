@@ -16,7 +16,7 @@ function whileLoop (number){
   while (number2 > 0) {
     console.log (--number2);
   }
-    console.log (`done`);
+    return (`done`);
   }
     
     

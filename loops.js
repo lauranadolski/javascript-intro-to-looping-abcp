@@ -12,10 +12,10 @@ function forLoop (array) {
     
     
 function whileLoop (number){
-  var number = number + 1;
-  while (number > 0) {
-    console.log (--number);
-    if (number < 1){
+  var number2 = number + 1;
+  while (number2 > 0) {
+    console.log (--number2);
+    if (number2 < 1){
       console.log ('done');
   }}
   

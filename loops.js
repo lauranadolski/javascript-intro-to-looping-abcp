@@ -12,16 +12,14 @@ function forLoop (array) {
     
     
 function whileLoop (number){
- // var number2 = number + 1;
   while (number > 0) {
     console.log (--number);
   }
     return (`done`);
   }
     
-    
-    
-    ///     if (number2 < 1){
-    
+function doWhileLoop(array){
+  
+}
     
 /////    var array = ['apples', 'bananas', 'grapes'];    
